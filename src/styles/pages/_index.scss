@@ -5,10 +5,10 @@
     padding: 0;
   }
 
-  a,
+  a,  
   a:hover,
   a:focus {
-    color: var(--text-color);
+    color: var(--link-color);
     text-decoration: none;
   }
 
@@ -38,6 +38,7 @@
 
   .excerpt {
     font-size: 1.125rem;
+    color: var(--text-color);
 
     @include mobile {
       font-size: 1rem;

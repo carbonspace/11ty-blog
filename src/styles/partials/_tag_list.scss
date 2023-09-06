@@ -6,12 +6,21 @@
     flex-direction: row;
     flex-wrap: wrap;
 
+    li {
+      font-family: var(--arial-font-family);
+      margin: 0 0.625rem 0.625rem 0;
+    }
+
     a {
       text-decoration: none;
       border: 2px solid var(--link-color);
       border-radius: 0.5rem;
-      padding: 0.5rem 1rem;
-      margin: 0.5rem;
+      padding: 0.25rem 0.5rem;
+      margin: 0;
+      background-color: #57a9fb;
+      color: #4a4a4a;
+      font-size: 0.8rem;
+      line-height: 1.5;
       @include transition(background);
 
       &:hover,
@@ -21,8 +30,9 @@
       }
 
       .count {
-        font-size: 1rem;
-        color: var(--post-meta-color);
+        font-size: 0.8rem;
+        /* TODO: color: var(--post-meta-color); */
+        color: #4a4a4a;
         font-family: var(--arial-font-family);
       }
     }
