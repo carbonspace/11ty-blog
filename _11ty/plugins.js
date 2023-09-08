@@ -8,6 +8,8 @@ const srcSet = require('./plugins/srcset');
 const pluginPWA = require('eleventy-plugin-pwa-v2');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const faviconsPlugin = require('eleventy-plugin-gen-favicons');
+const embedEverything = require('eleventy-plugin-embed-everything');
+const embedCodePen = require('@manustays/eleventy-plugin-codepen-iframe');
 
 const productionPlugins = IS_PRODUCTION
   ? [
@@ -75,6 +77,16 @@ const plugins = [
         orientation: 'any',
       },
     },
+  },
+  {
+    body: embedEverything
+  },
+  {
+    body: embedCodePen,
+    options: {
+      tabs: 'js, result"',
+      user: 'carbonspace'
+    }
   },
 ];
 
