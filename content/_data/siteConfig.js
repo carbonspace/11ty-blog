@@ -9,7 +9,7 @@ module.exports = {
     // OpenGraph tags and feeds.
     // Can also be used anywhere on the site as a Nunjucks variable:
     // {{ siteConfig.site.logo }}
-    title: 'dx.bin',
+    title: 'ɲ į ɓ ß ɸ ʈ ɚ',
     // Site description. Used in many places, including meta title,
     // OpenGraph tags and feeds.
     // It is also used as a fallback description if no custom description
@@ -24,7 +24,7 @@ module.exports = {
     // If you opt for text fallback, you may want to adjust
     // $menuBreakpoint variable in _variables.scss
     // so that site title and menu items remain within a single line.
-    logo: '/images/greek-helmet-01.svg',
+    logo: '/images/quill.svg',
     // Default language of the site. Used in 'lang' attribute of <html> element
     // If none is provided, no 'lang' attribute will be used.
     language: 'en',

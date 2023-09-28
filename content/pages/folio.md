@@ -1,10 +1,10 @@
 ---
-title: Sample page with custom permalink
+title: Folio
 description: All posts published since the start of of the blog back in 2020.
 customPermalink: /custom-permalink/
 eleventyNavigation:
-  key: Custom permalink page
-  order: 4
+  key: Folio
+  order: 3
 ---
 
 This is a sample page with a custom permalink and different title shown in menus.
