@@ -83,7 +83,7 @@ Inside `index.js`, add the code for your new package.
   module.exports = initPackage
   ```
 
-After creating your function, export the function using `module.exports`. `module.exports` is a way to specify the values, functions, or objects that you want to make available for other modules to import and use. IN this example, we'll be making the `initPackage` function available for import and use.
+After creating your function, export the function using `module.exports`. `module.exports` is a way to specify the values, functions, or objects that you want to make available for other modules to import and use. In this example, we'll be making the `initPackage` function available for import and use.
 
 You should now have a basic package created. Before publishing, **make sure to test your package**. testing reduces the chance of publishing bugs to the NPM registry.
 
@@ -224,14 +224,9 @@ Source: [How to Create and Publish an NPM Package – a Step-by-Step Guide](http
 
 ## More Links
 
-[Publishing my own CSS utility library on NPM](https://dev.to/evanwinter/create-your-own-css-utility-library-582d)
-
-[Project GitHub](https://github.com/evanwinter/styles)
-
+[Publishing my own CSS utility library on NPM](https://dev.to/evanwinter/create-your-own-css-utility-library-582d) -> [Project GitHub](https://github.com/evanwinter/styles)
 
 [Create your own css npm module and use it in your project](https://medium.com/@jerrythimothy/create-your-css-npm-module-and-use-it-in-your-project-178894834f08)
-
----
 
 [Creating my first npm package](https://www.csrhymes.com/2019/12/08/creating-my-first-npm-package.html)
 
