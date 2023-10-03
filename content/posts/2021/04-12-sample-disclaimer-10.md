@@ -1,18 +1,19 @@
 ---
-title: Sample post 20
+title: Sample Disclaimer
 description: Post description that will be visible in HTML meta description.
-date: 2022-04-12
+date: 2021-04-12
 tags:
-  - hello world
+  - disclaimer
   - sample post
-  - test
-  - sample post 20
-  - tag with pagination
+disclaimer:
+  text: This is a text disclaimer. It will be visible on the article page and in RSS / JSON feeds.  
 ---
 
 This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.
 
-**This is the second paragraph of this post.** Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.
+**This is the second paragraph of this post.** Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu.
+
+This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.
 
 Nunc enim nisl, ornare in sapien vel, auctor euismod enim. Sed consequat tincidunt consequat. Integer eu pulvinar velit. Nullam eget feugiat nisi, quis eleifend odio. Donec dolor orci, scelerisque ac vehicula eget, malesuada ut quam. Pellentesque accumsan ante urna, sit amet molestie arcu condimentum at. Aenean vitae lorem nec est consequat lacinia. Nunc sem ex, eleifend ac lobortis et, feugiat nec eros. Aliquam maximus nibh quis eleifend viverra. Curabitur at mattis erat, ac imperdiet purus. Donec metus arcu, euismod vel sem non, euismod laoreet risus. Integer eros dui, ultricies lobortis nisl at, fringilla lacinia tortor. Cras maximus magna tortor, in commodo nunc ultrices gravida.
 

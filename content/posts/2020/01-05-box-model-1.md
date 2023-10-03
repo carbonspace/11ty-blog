@@ -5,9 +5,11 @@ date: 2020-01-05
 tags:
   - css
 ---
+
 The CSS box model as a whole applies to block boxes and defines how the different parts of a box — margin, border, padding, and content — work together to create a box that you can see on a page. Inline boxes use just some of the behavior defined in the box model. To add complexity, there is a standard and an alternate box model. By default, browsers use the standard box model.
----
-## The standard CSS box model
+
+
+**The standard CSS box model**
 
 <img src="/images/2020-box-model.png" width="100%" alt="Standard CSS Box Model" />
 

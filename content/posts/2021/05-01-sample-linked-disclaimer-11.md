@@ -1,15 +1,13 @@
 ---
-title: Sample post number 31
+title: Sample Linked Disclaimer
 description: Post description that will be visible in HTML meta description.
-date: 2023-05-01
+date: 2021-05-01
 tags:
-  - hello world
+  - disclaimer
   - sample post
-  - sample post 31
-  - test
-  - tag with pagination
 disclaimer:
-  text: This is a text disclaimer. It will be visible on the article page and in RSS / JSON feeds.
+  text: This is a disclaimer that links to a different page
+  url: https://example.org/
 ---
 
 This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.

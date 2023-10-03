@@ -1,24 +1,22 @@
 ---
-title: Sample post 30
-description: Post description that will be visible in HTML meta description.
-date: 2023-04-12
+title: CodePen, YouTube embed example
+description: Codepen and YouTube embed example
+date: 2022-12-12
 tags:
-  - hello world
-  - sample post
-  - test
-  - sample post 30
-  - tag with pagination
-  - ĄĘÓŁ tag with diacritic characters
-  - ŻŁÓ another tag diacritic characters
+  - codepen
+  - youtube
+  - embed
 ---
 
 This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.
 
 **This is the second paragraph of this post.** Nunc placerat suscipit ante, eleifend finibus turpis pellentesque ac. Suspendisse quam arcu.
 
+This is a YouTube embed
+
 https://www.youtube.com/watch?v=2an6-WVPuJU
 
-This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.
+This is a CodePen embed
 
 {% CodePen "https://codepen.io/carbonspace/pen/GRPrvRb" %}
 

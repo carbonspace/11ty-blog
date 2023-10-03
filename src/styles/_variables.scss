@@ -129,7 +129,7 @@ html:not(.dark) {
 $darkBackgroundColor: $black;
 $darkHeaderBackgroundColor: lighten($black, 10%);
 $darkBrandTextColor: $white;
-$darkTextColor: hsl($baseHue, 5%, 70%);
+$darkTextColor: hsl($baseHue, 5%, 85%);
 $darkLinkColor: hsl($baseHue, 60%, 75%);
 $darkLinkHoverColor: darken($darkLinkColor, 10%);
 $darkPostMetaColor: $darkTextColor;
